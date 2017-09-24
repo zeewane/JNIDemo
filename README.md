@@ -1,5 +1,5 @@
 # JNIDemo
-近期工作需要用java去调用c那边的方法，中间使用JNI层，所以学习了一些JNI的基本使用。主要从下面几点来整理和学习，均为从csdn大神 [阁楼猫](http://blog.csdn.net/tsdfk1455/article/category/6554867)博客和百度其他的资料中获得。
+近期工作需要用java去调用c那边的方法，中间使用JNI层，所以学习了一些JNI的基本使用。主要从下面几点来整理和学习，均为从csdn大神 [阁楼猫] (http://blog.csdn.net/tsdfk1455/article/category/6554867)博客和百度其他的资料中获得。
 - JNI是什么
 - c & c++的基本语法
 - 命令行编译java
